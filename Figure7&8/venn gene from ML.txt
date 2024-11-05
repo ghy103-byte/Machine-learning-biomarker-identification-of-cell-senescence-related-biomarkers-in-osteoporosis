@@ -1,0 +1,6 @@
+elements
+MAP3K3
+FOXO3
+UBB
+AKT3
+UBE2E1
